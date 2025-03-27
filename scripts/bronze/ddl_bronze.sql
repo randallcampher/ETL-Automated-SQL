@@ -4,14 +4,14 @@
 	===============================================================================================
 
 	Purpose:  
-		This script checks if specific tables exist in the 'bronze' schema and drops them before recreating them. 
-		The tables store customer, product, sales, and ERP data.  
+	-- This script checks if specific tables exist in the 'bronze' schema and drops them before recreating them. 
+	-- The tables store customer, product, sales, and ERP data.  
  
 	WARNING:  
-		⚠️ ALL DATA IN THESE TABLES WILL BE LOST! ⚠️  
-		This script drops and recreates tables, meaning any existing data will be deleted.  
-		Ensure a backup exists before running this script in a production environment.  
-		Dropping tables might impact other processes that depend on them.  
+	⚠️ ALL DATA IN THESE TABLES WILL BE LOST! ⚠️  
+	-- This script drops and recreates tables, meaning any existing data will be deleted.  
+	-- Ensure a backup exists before running this script in a production environment.  
+	-- Dropping tables might impact other processes that depend on them.  
 */
 
 
@@ -75,6 +75,6 @@ CREATE TABLE bronze.erp_px_cat_g1v2(
 	id			VARCHAR(50),
 	cat			VARCHAR(50),
 	subcat		VARCHAR(50),
-	manitenance	VARCHAR(50)
+	maintenance	VARCHAR(50)
 );
 
