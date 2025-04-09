@@ -49,7 +49,7 @@ As a freelance **Data & BI Analyst Consultant**, my responsibilities included:
 
 The project leveraged a **Medallion Architecture** consisting of three structured layers:
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](https://github.com/randallcampher/ETL-Automated-SQL/blob/main/docs/data_architecture.png)
 
 1. **Bronze Layer** – Raw ingestion of ERP and CRM CSV files into staging tables.
 2. **Silver Layer** – Cleaned and normalised data, resolving duplicates and schema inconsistencies.
