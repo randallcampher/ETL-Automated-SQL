@@ -71,7 +71,6 @@ The following analytics capabilities were enabled through SQL-based reporting an
   Revenue growth, order volumes and on-time delivery rates.
 
 ---
----
 
 ## 📌 Client Value & Impact
 
