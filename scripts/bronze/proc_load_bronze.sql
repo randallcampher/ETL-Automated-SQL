@@ -7,7 +7,7 @@
 	-- It first truncates the tables to ensure fresh data is loaded.
 	  
 	WARNING:  
-	⚠️ ALL EXISTING DATA IN TARGET TABLES WILL BE LOST! ⚠️  
+	ALL EXISTING DATA IN TARGET TABLES WILL BE LOST!   
 	-- This script **truncates** all target tables before loading new data.  
 	-- Ensure a backup exists if required before execution.  
 	-- File paths are **hardcoded**, verify that they are correct before running.  
