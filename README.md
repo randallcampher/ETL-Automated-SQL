@@ -90,7 +90,7 @@ It includes anonymised project structures and generalised logic based on the ori
 
 ## 👤 About the Consultant
 
-I’m a freelance **Data Analyst and BI Consultant** specializing in SQL-based analytics, data modeling, and reporting automation. I help organizations modernize their data ecosystems and unlock actionable business insights through tailored data solutions.
+I’m a freelance **Data Analyst and BI Consultant** specialising in analytics, data modeling and reporting automation. I help clients modernise their data ecosystems and unlock actionable business insights through tailored data solutions and/or data analytics and visualisation.
 
 📧 Email: [randallcampher@gmail.com]  
 🔗 LinkedIn: [https://www.linkedin.com/in/randall-campher/]  
