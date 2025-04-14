@@ -1,7 +1,7 @@
 # 🏢 Retail Data Warehouse & Analytics Solution (Client Engagement)
 
 Welcome to the **Retail Data Warehouse & Analytics Solution** repository.  
-This project was executed as a professional consulting engagement for a mid-sized retail client aiming to modernise their data infrastructure and enhance their analytics capabilities.
+This project was executed as a professional consulting engagement for a retail client aiming to modernise their data infrastructure and enhance their analytics capabilities.
 
 ---
 
